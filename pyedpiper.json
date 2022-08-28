@@ -1,0 +1,25 @@
+{
+   "layout":{
+      "rows":2,
+      "columns":2
+   },
+   "rawLog":{
+      "position":{
+         "row":0,
+         "column":0,
+         "size":{
+            "rows":2,
+            "columns":1
+         }
+      },
+      "type":"log"
+   },
+   "graph":{
+      "position":"12",
+      "size":"11",
+      "type":"graph",
+      "xAxisName":"Time",
+      "yAxisName":"Voltage",
+      "parserRe":"(.*),(.*)",
+   }
+}
